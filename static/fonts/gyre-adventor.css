@@ -1,0 +1,17 @@
+/* Gyre Adventor: a Latin subset of TeX Gyre Adventor (GUST e-foundry, from URW Gothic L), a free relative of the
+   classic geometric sans ITC Avant Garde Gothic. GUST Font License (see GUST-FONT-LICENSE.txt); the subset carries its
+   own family name, as the licence requests for derived versions. */
+@font-face {
+  font-family: 'Gyre Adventor';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(gyre-adventor-regular.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Gyre Adventor';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(gyre-adventor-bold.woff2) format('woff2');
+}

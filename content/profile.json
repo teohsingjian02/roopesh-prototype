@@ -1,0 +1,58 @@
+{
+ "_about": "Who Roopesh is, in his words and in short. Sources: the details document supplied in November 2026 (education, positions, statement, links) and the APARN project (Director from 2026, Chapalang).",
+ "name": "Roopesh Sitharan",
+ "honorific": "Ts. Dr.",
+ "base": "Based in Malaysia",
+ "roles": [
+  { "word": "artist", "line": "Selected for the ILHAM Art Show 2025 at ILHAM Gallery, Kuala Lumpur. Earlier work at the Gwangju Biennale, ISEA and SIGGRAPH.", "href": "notes/#ilham-art-show" },
+  { "word": "curator", "line": "Co-curator of Chapalang (Singapore, 2026) and of the peer-reviewed exhibition at the Vietnam Festival of Creativity and Design.", "href": "notes/#vietnam-festival" },
+  { "word": "researcher", "line": "A PhD in Visual Culture from Goldsmiths. Lately: how non-human agents shape our understanding of environment, nature and the “other”.", "href": "writing/" },
+  { "word": "educator", "line": "Associate Professor at the Faculty of Creative Multimedia, Multimedia University, and Director of APARN from 2026.", "href": "about/" }
+ ],
+ "between": [
+  { "a": "language", "b": "art", "from": "ANTARA: In-between Language and Art, 2020", "href": "writing/#antara" },
+  { "a": "art", "b": "science", "from": "a panel at Lawangwangi Creative Space, Bandung", "href": "notes/#lawangwangi" },
+  { "a": "the human", "b": "the non-human", "from": "Virtual Reality in Empathy Towards Non-Human Being, 2024", "href": "writing/#vr-empathy" },
+  { "a": "tradition", "b": "innovation", "from": "The Possibility of Culture in a Technological Future, 2026", "href": "notes/#culture-technology" },
+  { "a": "the record", "b": "the story", "from": "Living Archives, at Who Speaks?, 2026", "href": "notes/#who-speaks" },
+  { "a": "peer review", "b": "curation", "from": "the Vietnam Festival of Creativity and Design, 2026", "href": "notes/#vietnam-festival" },
+  { "a": "collection", "b": "knowledge", "from": "PROSPEKTUS 1: Koleksi Seni dan Aset Ilmiah, 2026", "href": "notes/#prospektus" }
+ ],
+ "statement": [
+  "I am a multidisciplinary practitioner engaging with art through diverse interrogation strategies, taking on roles such as educator, curator, researcher, and artist.",
+  "My work spans national and international projects, including major showcases like the Gwangju Biennale, ISEA, and SIGGRAPH. My writings have been published in respected journals such as Leonardo Electronic Almanac (LEA), CTRL+P Contemporary Art Journal, and Documenta 12.",
+  "I have participated in residency programs that focus on research and the role of art in critically addressing real-world issues.",
+  "Recently, my work has centered on exploring the influence of non-human agents in shaping our understanding of environment, nature, and the “other,” and how these factors influence human subjectivity."
+ ],
+ "statementKeywords": ["educator", "curator", "researcher", "artist", "non-human agents", "environment", "nature", "the “other,”", "human subjectivity"],
+ "bio": [
+  "Ts. Dr. Roopesh Sitharan is a multidisciplinary artist, curator, researcher and academic based in Malaysia.",
+  "He is an Associate Professor at the Faculty of Creative Multimedia, Multimedia University (MMU), where he also leads the Master of Creative Multimedia programme. He is the Director of the Asia Pacific Artistic Research Network (APARN) from 2026, after convening it since 2024, and sits on the Board of Directors of the New Media Caucus.",
+  "He holds a PhD in Visual Culture from Goldsmiths, University of London, an MFA in New Media and Digital Arts from the University of California, Santa Cruz, and an MA in Curatorial Practice from California College of the Arts."
+ ],
+ "education": [
+  { "title": "PhD in Visual Culture", "where": "Goldsmiths, University of London" },
+  { "title": "MFA in New Media and Digital Arts", "where": "University of California, Santa Cruz" },
+  { "title": "MA in Curatorial Practice", "where": "California College of the Arts" },
+  { "title": "Postgraduate Certificate in the Management of Learning and Teaching", "where": "Goldsmiths, University of London" }
+ ],
+ "positions": [
+  { "title": "Director", "where": "Asia Pacific Artistic Research Network (APARN)", "when": "From 2026; convenor since 2024", "now": true, "href": "https://www.aparn.net/" },
+  { "title": "Board of Directors", "where": "New Media Caucus, New York", "when": "2023 to present", "now": true, "href": "https://newmediacaucus.org/people/roopesh-sitharan" },
+  { "title": "Associate Professor", "where": "Faculty of Creative Multimedia, Multimedia University", "when": "Present; also Program Director, Master of Creative Multimedia", "now": true },
+  { "title": "Deputy Director for International Collaboration and Engagement", "where": "Multimedia University", "when": "2022 to present", "now": true },
+  { "title": "Deputy Dean, Research", "where": "Faculty of Creative Multimedia, Multimedia University", "when": "2020 to 2022" },
+  { "title": "Head of Program, Master of Creative Multimedia", "where": "Multimedia University", "when": "2019 to 2020" },
+  { "title": "Head of Department, Humanities", "where": "Multimedia University", "when": "2018 to 2020" }
+ ],
+ "links": [
+  { "label": "LinkedIn", "url": "https://www.linkedin.com/in/roopeshsitharan/" },
+  { "label": "Instagram", "url": "https://www.instagram.com/roopeshsitharan/" },
+  { "label": "ORCID", "url": "https://orcid.org/0009-0006-7362-5898" },
+  { "label": "ResearchGate", "url": "https://www.researchgate.net/profile/Roopesh-Sitharan" },
+  { "label": "Academia", "url": "https://independent.academia.edu/RSitharan" },
+  { "label": "Semantic Scholar", "url": "https://www.semanticscholar.org/author/Roopesh-Sitharan/114695338" },
+  { "label": "New Media Caucus", "url": "https://newmediacaucus.org/people/roopesh-sitharan" },
+  { "label": "APARN", "url": "https://www.aparn.net/" }
+ ]
+}

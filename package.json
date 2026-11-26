@@ -1,0 +1,14 @@
+{
+  "name": "roopesh-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Website prototype for Ts. Dr. Roopesh Sitharan: artist, curator, researcher and educator.",
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "serve": "node tools/serve.mjs",
+    "test": "node tools/test-site.mjs",
+    "shots": "node tools/test-site.mjs --shots",
+    "test:live": "node tools/test-site.mjs --live"
+  }
+}
