@@ -107,7 +107,6 @@ ${body}
     <ul class="foot-links">${P.links.map((l, i) => `<li data-rise style="--i:${i}">${ext(l.url, `${esc(l.label)}${NE}`)}</li>`).join("")}</ul>
     <div class="foot-base">
       <p>${esc(P.honorific)} ${esc(P.name)}, ${esc(P.base.replace(/^Based/, "based"))}.</p>
-      <p class="colophon">Set in Gyre Adventor and Roboto.</p>
       <a class="totop-link" href="#main" data-totop>Back to the top <span aria-hidden="true">↑</span></a>
     </div>
   </div>
